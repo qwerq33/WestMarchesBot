@@ -1,0 +1,1 @@
+{"testuser": {"gold": 50, "silver": 25, "copper": 20}, "Zack#5826": {"gold": 135, "silver": 0, "copper": 0}}
